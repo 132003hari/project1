@@ -1,0 +1,13 @@
+
+#menu{
+	list-style-type:none;
+	font-size:18px;
+}
+
+#menu li{
+	display:inline;
+}
+body{
+background-image:url(../images/h3.jpg);
+}
+
